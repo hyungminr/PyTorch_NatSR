@@ -15,7 +15,7 @@ model = NMDiscriminator().to(device)
 
 # torchsummary(model, input_size=(3, 448, 448))
 
-model.load_state_dict(torch.load('./models/weights/NMD'))
+model.load_state_dict(torch.load('./models/weights/NMD.pth'))
 
 # Hyper-parameters
 num_epochs = 1000
