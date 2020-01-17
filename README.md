@@ -1,6 +1,12 @@
 # PyTorch_NatSR
 Unofficial PyTorch implementation of NatSR
 
+### Results
+![SR results](./results/0.png)
+![SR results](./results/1.png)
+![SR results](./results/2.png)
+![SR results](./results/3.png)
+
 ### Reference
 Natural and Realistic Single Image Super-Resolution with Explicit Natural Manifold Discrimination\
 Jae Woong Soh, Gu Yong Park, Junho Jo, and Nam Ik Cho\
